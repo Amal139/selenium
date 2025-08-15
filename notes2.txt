@@ -1,0 +1,5 @@
+Explicit waits allow Selenium to wait for specific conditions before proceeding.
+Implicit waits set a default waiting time for all element searches.
+Fluent waits allow polling at regular intervals until a condition is met.
+Selenium Grid enables running tests in parallel on different machines.
+Taking screenshots in Selenium helps capture the browser state during tests.

@@ -1,0 +1,5 @@
+Selenium is a popular tool for automating web browser actions.
+It supports multiple programming languages like Java, Python, and C#.
+WebDriver is the core component that controls the browser.
+Locators in Selenium help find elements on a web page.
+Selenium can be integrated with TestNG or JUnit for test execution.
