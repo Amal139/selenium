@@ -1,0 +1,5 @@
+Automation testing saves time and reduces manual effort.
+Selenium scripts can run on different browsers like Chrome, Firefox, and Edge.
+Page Object Model improves code maintenance in Selenium projects.
+Assertions in Selenium help verify test results.
+Continuous integration tools can trigger Selenium tests automatically.
